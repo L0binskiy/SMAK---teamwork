@@ -16,7 +16,7 @@ $link-hover-decoration: none !default;
 //## Typography
 $font-family-base:        'Oswald', Helvetica, Tahoma, sans-serif !default;
 $font-size-base:          16px;
-$line-height-base:        1.6;
+$line-height-base:        1.6 !important;
 
 $headings-font-family:    inherit !default;
 $headings-font-weight:    700 !default;

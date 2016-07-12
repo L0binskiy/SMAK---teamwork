@@ -1,27 +1,17 @@
-// variables custom
-$font-family-base:        Tahoma, Helvetica, Arial, sans-serif;
-$body-bg:               red;
-
-
-
 
 @import 'variables';
 
+// components
+@import	'components/_team.scss';
 
 // elements
 @import 'reset';
 @import 'type';
 @import 'grid';
-// @import 'icons';
 @import 'buttons';
 @import 'forms';
 
-// dev
-// @import 'anna';
-// @import 'natasha';
-// @import 'sasha';
-// @import 'sergei';
-
 .container {
-	background: rgba(tomato,.2);
+	// background: rgba(tomato,.2);
 }
+

@@ -36,6 +36,7 @@ h1, h2, h3, h4, h5, h6,
   font-weight: $headings-font-weight;
   line-height: $headings-line-height;
   color: $headings-color;
+  text-transform: uppercase;
 }
 h1, .h1 { font-size: $font-size-h1; margin: $margin-h1; }
 h2, .h2 { font-size: $font-size-h2; margin: $margin-h2; }
